@@ -23,7 +23,7 @@ configuring or using Linux.  Linux HOWTOs are a great source of
 practical information about your system.  The latest versions of these
 documents are located at http://www.linuxdoc.org/docs.html#howto
 
-Install the howto package if you'd like to be able to access the Linux
+Install this package if you'd like to be able to access the Linux
 HOWTO documentation from your own system.
 
 %prep 
