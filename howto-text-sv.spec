@@ -11,7 +11,7 @@ Version: 	%version
 Release: 	%release
 Group:		Books/Howtos
 Source0:	howto-text-sv.tar.bz2
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 License:	GPL
 BuildRoot:	%{_tmppath}/howto-%{format}-root
 BuildArchitectures: noarch
